@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/akshay0323-ux/my-weather-app/issues"
   },
-  "homepage": "https://github.com/akshay0323-ux/my-weather-app#readme"
+  "homepage": "https://github.com/akshay0323-ux/my-weather-app#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
 }
